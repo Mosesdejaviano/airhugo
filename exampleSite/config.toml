@@ -1,4 +1,4 @@
-baseURL = "http://examplesite.org"
+baseURL = "http://planet3r.netlify.app"
 disableLanguages = ["Fr", "It", "De"]
 disqusShortname = ""
 googleAnalytics = ""
@@ -6,7 +6,7 @@ paginate = "15"
 summaryLength = "100"
 theme = "airspace-hugo"
 timeZone = "UTC"
-title = "Airspace | Creative Agency Hugo Template"
+title = " | Planet3R"
 [languages.de]
 contentDir = "content/german"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Alle Rechte vorbehalten."
@@ -59,16 +59,16 @@ min = "0.87.0"
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
-image = "images/logo.png"
-logo = "images/logo.png"
+author = ""
+description = ""
+image = "/images/logo-2_11zon.jpg"
+logo = "/images/logo-2_11zon.jpg"
 logo_width = "150px"
 [params.contact]
-address_descriptors = false
-email = "demo@email.com"
-location = "**Themefisher**  \nNorth Main Street  \nBrooklyn, New South Wales  \nAustralia\n"
-phone = "0124857985320"
+address_descriptors = true
+email = ""
+location = "**Themefisher**  North Main Street  Brooklyn, New South Wales  Australia"
+phone = "+2348050700525"
 [params.contact.form]
 action = "#"
 enable = true
