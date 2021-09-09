@@ -65,10 +65,10 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Words from Us
+  description: "'At Planet 3R, we are not only making environmental impacts but also
+    create employment opportunities by empowering youths and women. We also plan to
+    improve our economy through locally generated raw materials and export opportunities.'"
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
