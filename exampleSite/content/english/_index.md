@@ -31,16 +31,20 @@ about:
     enable: false
 portfolio:
   enable: true
-  bg_image: images/feature-bg.jpg
+  bg_image: "/images/banner-2_11zon.jpg"
   title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: |2
+     The global creative market is worth $1.3 trillion. African Creative Industry is worth over $4.2 billion. With over 500million Africans in Diaspora and more than 30million tourists, we are targeting 2% of the total Africa market.
+
+    We have been able to bridge the gap by providing solutions to the problems other existing solutions were not looking into.
+
+    Dumping of wastes on the roadside and inside drainage channels, especially single-use plastics is currently one of the biggest environmental concerns. It causes groundwater pollution, marine pollution resulting in animal deaths, and many other adverse effects on the environment.
+
+    Our initiative focuses on the empowerment of unemployed youths by training them on effective ways to earn income from recycling plastic and textile waste.  We weave the wastes into eco-friendly products. We also engage in Grassroots and Creative Awareness programs geared Towards Achieving a Clean Environment.
+
+    Our competitive advantage is the fact that we recycle used nylons with locally made loom while creative hub, pearl recycling makes use of plastics and foreign machinery.
+
+    We creatively shred old clothes and used nylons (especially pure water sachets) then weave them by converting them into finished products. These finished products are fashion wear, home decors, bags, accessories, etc.
   button:
     enable: true
     label: View Works
