@@ -25,6 +25,8 @@ about:
     We have been able to bridge the gap by providing solutions to the problems other existing solutions were not looking into.
 
     Planet 3R uses mostly digital marketing and social media platforms to market. This includes extensive promotion on Facebook, Instagram, and other relevant platforms. Planet 3R also participates in exhibitions and other forums to showcase its products.
+
+    At Planet 3R, we not only make environmental impacts but also create employment opportunities by empowering youths. We also plan to improve our economy through locally generated raw materials and export opportunities
   image: images/cropped_11zon.jpg
   funfacts: []
   button:
