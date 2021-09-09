@@ -63,7 +63,7 @@ author = ""
 description = ""
 image = "/images/logo-2_11zon.jpg"
 logo = "/images/logo-2_11zon.jpg"
-logo_width = "150px"
+logo_width = "120px"
 [params.contact]
 address_descriptors = true
 email = ""
