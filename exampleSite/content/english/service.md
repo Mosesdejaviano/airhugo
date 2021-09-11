@@ -1,7 +1,7 @@
 ---
 title: Service
-description: this is meta description
-bg_image: images/feature-bg.jpg
+description: ''
+bg_image: images/fb_img_1616157972140_11zon.jpg
 layout: service
 about:
   enable: true
@@ -27,7 +27,7 @@ about:
   button:
     enable: false
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: Interface Design
     icon: ion-erlenmeyer-flask
