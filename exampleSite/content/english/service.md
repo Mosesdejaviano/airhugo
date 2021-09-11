@@ -18,9 +18,9 @@ about:
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
   funfacts:
-  - icon: ''
-    name: ''
-    count: ''
+  - icon: ion-bonfire
+    name: Creative Awareness Programs
+    count: "30"
   - icon: ion-earth
     name: 'Empowerment of Unemployed Youths '
     count: "500"
