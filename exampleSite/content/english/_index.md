@@ -87,9 +87,9 @@ funfacts:
     image: "/images/img-20180814-wa0002.jpg"
     designation: CEO-Planet3R
     content: ''
-  - name: ''
-    image: ''
-    designation: ''
+  - name: Adejoke Lasisi
+    image: images/img-20180814-wa0002.jpg
+    designation: CEO-Planet3R
     content: ''
   - name: Adejoke Lasisi
     image: images/img-20180814-wa0002.jpg
