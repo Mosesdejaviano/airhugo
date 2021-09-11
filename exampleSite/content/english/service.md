@@ -64,8 +64,8 @@ service:
       waste collecting and recycling.
   - icon: ion-planet
     name: Recycling Hubs
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: We have a plan to set up recycling hubs in various locations to achieve
+      higher production efficiency.
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
