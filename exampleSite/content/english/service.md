@@ -59,9 +59,9 @@ service:
     content: We easily source for Disposed plastics, nylons and textile wastes which
       are our major inputs in production
   - icon: ion-image
-    name: "3.\tEmpowerment Initiative"
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Empowerment Initiative
+    content: We empower women and youth in rural communities by training them on sustainable
+      waste collecting and recycling.
   - icon: ion-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
