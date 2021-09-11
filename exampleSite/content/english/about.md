@@ -14,7 +14,7 @@ about:
 
     Dumping of wastes on the roadside and inside drainage channels especially single-use plastics is currently one of the biggest environmental concerns. It causes groundwater pollution, marine pollution resulting in animal deaths, and many other adverse effects on the environment.
   button:
-    enable: true
+    enable: false
     label: Download Company Profile
     link: "#"
   funfacts:
