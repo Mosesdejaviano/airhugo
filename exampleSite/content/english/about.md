@@ -27,9 +27,9 @@ about:
   - icon: ion-bonfire
     name: Creative Awareness Programs
     count: "30"
-  - icon: ion-ios-wineglass-outline
-    name: Awards Winner
-    count: "10"
+  - icon: ion-earth
+    name: Empowerment of Unemployed Youths
+    count: "500"
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
     count: "75"
