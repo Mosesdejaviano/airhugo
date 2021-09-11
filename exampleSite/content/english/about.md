@@ -44,10 +44,10 @@ features:
     name: Access to Raw Materials
     content: We easily source for Disposed plastics, nylons and textile wastes which
       are our major inputs in production
-  - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-ios-people-outline
+    name: Empowerment Initiative
+    content: We empower women and youth in rural communities by training them on sustainable
+      waste collecting and recycling.
   - icon: ion-ios-mic-outline
     name: Animation and Editing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
