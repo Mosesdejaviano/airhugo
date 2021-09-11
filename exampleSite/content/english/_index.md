@@ -84,6 +84,14 @@ funfacts:
     count: "500"
   testimonial_slider:
   - name: Adejoke Lasisi
+    image: "/images/img-20180814-wa0002.jpg"
+    designation: CEO-Planet3R
+    content: ''
+  - name: ''
+    image: ''
+    designation: ''
+    content: ''
+  - name: Adejoke Lasisi
     image: images/img-20180814-wa0002.jpg
     designation: CEO-Planet3R
     content: This Company created an e-commerce site with the tools to make our business
