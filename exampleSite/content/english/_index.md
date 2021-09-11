@@ -86,7 +86,8 @@ funfacts:
   - name: Adejoke Lasisi
     image: "/images/img-20180814-wa0002.jpg"
     designation: CEO-Planet3R
-    content: ''
+    content: 'We also engage in Grassroots and Creative Awareness programs geared
+      Towards Achieving a Clean Environment. '
   - name: Adejoke Lasisi
     image: images/img-20180814-wa0002.jpg
     designation: CEO-Planet3R
