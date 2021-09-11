@@ -33,12 +33,13 @@ about:
   description: 'Converting textile and plastic wastes into eco-friendly products '
 features:
   enable: true
-  title: We are indepented Design & Development Agency
+  title: We are a Social Enterprise dedicated to converting Textile & Plastic Wastes
+    into Eco-Friendly Products
   feature_item:
-  - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-ios-analytics
+    name: Affordability
+    content: Our weaving equipments are locally made in Nigeria which makes our products
+      affordable.
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
