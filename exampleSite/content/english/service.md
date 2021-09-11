@@ -18,9 +18,12 @@ about:
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
   funfacts:
-  - icon: ion-archive
-    name: 'Eco-friendly Products '
-    count: "30"
+  - icon: ''
+    name: ''
+    count: ''
+  - icon: ion-earth
+    name: 'Empowerment of Unemployed Youths '
+    count: "500"
 featured_service:
   enable: true
   service_item:
