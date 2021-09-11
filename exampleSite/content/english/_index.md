@@ -70,9 +70,9 @@ funfacts:
     create employment opportunities by empowering youths and women. We also plan to
     improve our economy through locally generated raw materials and export opportunities.'"
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+  - icon: ion-archive
+    name: 'Eco-friendly products '
+    count: "30"
   - icon: ion-ios-glasses-outline
     name: Article Written
     count: "45"
