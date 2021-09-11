@@ -76,9 +76,9 @@ funfacts:
   - icon: ion-arrow-expand
     name: Recycled clothes and nylons
     count: "10000"
-  - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+  - icon: ion-bonfire
+    name: Creative Awareness Programs
+    count: "30"
   - icon: ion-ios-timer-outline
     name: Combined Projects
     count: "200"
