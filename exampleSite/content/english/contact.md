@@ -1,14 +1,7 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
-layout: "contact"
-draft: false
-menu:
-  main:
-    name: "Contact"
-    weight: 6
-  footer:
-    name: "Contact"
-    weight: 6
+title: Send Us a Message
+description: ''
+bg_image: images/img_20210331_201540_199_11zon_11zon_11zon.jpg
+layout: contact
+
 ---
