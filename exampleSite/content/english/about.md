@@ -24,9 +24,9 @@ about:
   - icon: ion-arrow-expand
     name: Recycled Clothes and Nylons
     count: "10000"
-  - icon: ion-ios-pint-outline
-    name: Satisfied Customer
-    count: "70"
+  - icon: ion-bonfire
+    name: Creative Awareness Programs
+    count: "30"
   - icon: ion-ios-wineglass-outline
     name: Awards Winner
     count: "10"
