@@ -52,14 +52,6 @@ features:
     name: Recycling Hubs
     content: We have a plan to set up recycling hubs in various locations to achieve
       higher production efficiency.
-  - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-star-outline
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
 testimonial:
   enable: true
 mission_vision:
