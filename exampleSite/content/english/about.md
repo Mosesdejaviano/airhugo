@@ -18,9 +18,9 @@ about:
     label: Download Company Profile
     link: "#"
   funfacts:
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: "349"
+  - icon: ion-archive
+    name: 'Eco-friendly Products '
+    count: "30"
   - icon: ion-ios-flame-outline
     name: Lines Of Code
     count: "35000"
