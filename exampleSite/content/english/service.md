@@ -55,7 +55,7 @@ service:
     content: Our weaving equipments are locally made in Nigeria which makes our products
       affordable.
   - icon: ion-compass
-    name: Web Design
+    name: Access to Raw Materials
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-image
