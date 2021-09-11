@@ -4,7 +4,7 @@ description: this is meta description
 bg_image: images/feature-bg.jpg
 layout: pricing
 pricing:
-  enable: true
+  enable: false
   pricing_table:
   - name: Basic
     price: "$99"
