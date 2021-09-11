@@ -65,16 +65,10 @@ mission_vision:
     content: With over 500million Africans in Diaspora and more than 30million tourists,
       we are targeting 2% of the total Africa market.
   - name: Approach
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
+    content: "In as much as the Pandemic has affected our business, it has also made
+      us see possibilities in other areas. We created a Waste challenge whereby people
+      properly dispose of their wastes and keep others for recycling. we also launched
+      our Weaving Starter Kits.\n\n"
 cta:
   enable: true
 
