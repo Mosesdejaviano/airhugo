@@ -47,14 +47,13 @@ featured_service:
 service:
   enable: true
   title: Current Market-Place Solution
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: 'Planet 3R converts Textile and Plastic wastes into affordable Eco-friendly
+    products for low and middle-income earners. '
   service_item:
   - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Affordability
+    content: Our weaving equipments are locally made in Nigeria which makes our products
+      affordable.
   - icon: ion-compass
     name: Web Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
