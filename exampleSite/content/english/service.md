@@ -54,10 +54,10 @@ service:
     name: Affordability
     content: Our weaving equipments are locally made in Nigeria which makes our products
       affordable.
-  - icon: ion-compass
+  - icon: ion-ios-gear-outline
     name: Access to Raw Materials
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: We easily source for Disposed plastics, nylons and textile wastes which
+      are our major inputs in production
   - icon: ion-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
