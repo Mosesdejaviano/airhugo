@@ -21,9 +21,9 @@ about:
   - icon: ion-archive
     name: 'Eco-friendly Products '
     count: "30"
-  - icon: ion-ios-flame-outline
-    name: Lines Of Code
-    count: "35000"
+  - icon: ion-arrow-expand
+    name: Recycled Clothes and Nylons
+    count: "10000"
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
     count: "70"
