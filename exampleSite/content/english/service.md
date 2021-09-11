@@ -59,7 +59,7 @@ service:
     content: We easily source for Disposed plastics, nylons and textile wastes which
       are our major inputs in production
   - icon: ion-image
-    name: App Design
+    name: "3.\tEmpowerment Initiative"
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-bug
