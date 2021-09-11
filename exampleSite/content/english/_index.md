@@ -71,7 +71,7 @@ funfacts:
     improve our economy through locally generated raw materials and export opportunities.'"
   funfact_item:
   - icon: ion-archive
-    name: 'Eco-friendly products '
+    name: 'Eco-friendly Products '
     count: "30"
   - icon: ion-arrow-expand
     name: Recycled clothes and nylons
