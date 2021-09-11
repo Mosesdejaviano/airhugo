@@ -63,7 +63,7 @@ service:
     content: We empower women and youth in rural communities by training them on sustainable
       waste collecting and recycling.
   - icon: ion-bug
-    name: Start Up
+    name: Recycling Hubs
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-headphone
