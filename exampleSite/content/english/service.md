@@ -18,6 +18,9 @@ about:
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
   funfacts:
+  - icon: ion-arrow-expand
+    name: Recycled Clothes and Nylons
+    count: "10000"
   - icon: ion-bonfire
     name: Creative Awareness Programs
     count: "30"
