@@ -1,7 +1,7 @@
 ---
-title: About Our Company
-description: this is meta description
-bg_image: images/feature-bg.jpg
+title: About Planet3R
+description: ''
+bg_image: images/banner-2_11zon.jpg
 layout: about
 about:
   enable: true
