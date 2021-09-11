@@ -58,7 +58,7 @@ service:
     name: Access to Raw Materials
     content: We easily source for Disposed plastics, nylons and textile wastes which
       are our major inputs in production
-  - icon: ion-image
+  - icon: ion-ios-people-outline
     name: Empowerment Initiative
     content: We empower women and youth in rural communities by training them on sustainable
       waste collecting and recycling.
