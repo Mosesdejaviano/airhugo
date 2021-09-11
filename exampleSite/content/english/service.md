@@ -10,7 +10,7 @@ about:
     Our initiative focuses on the empowerment of unemployed youths by training them on effective ways to earn income from recycling plastic and textile waste.  We weave the wastes into eco-friendly products.
 
     We also engage in Grassroots and Creative Awareness programs geared Towards Achieving a Clean Environment.
-  image: images/company/company-group-pic.jpg
+  image: images/banner-2_11zon.jpg
   funfacts:
   - icon: ion-archive
     name: Eco-friendly Products
@@ -24,6 +24,8 @@ about:
   - icon: ion-earth
     name: 'Empowerment of Unemployed Youths '
     count: "500"
+  button:
+    enable: false
 featured_service:
   enable: true
   service_item:
