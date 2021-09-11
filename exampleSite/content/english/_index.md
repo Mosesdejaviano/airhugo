@@ -107,6 +107,7 @@ funfacts:
   - name: Adejoke Lasisi
     image: images/img-20180814-wa0002.jpg
     designation: CEO-Planet3R
-    content: ''
+    content: With over 500million Africans in Diaspora and more than 30million tourists,
+      we are targeting 2% of the total market share in Africa.
 
 ---
