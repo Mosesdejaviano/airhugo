@@ -50,7 +50,7 @@ service:
   description: 'Planet 3R converts Textile and Plastic wastes into affordable Eco-friendly
     products for low and middle-income earners. '
   service_item:
-  - icon: ion-coffee
+  - icon: ion-ios-analytics
     name: Affordability
     content: Our weaving equipments are locally made in Nigeria which makes our products
       affordable.
