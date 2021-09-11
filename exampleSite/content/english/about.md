@@ -30,12 +30,6 @@ about:
   - icon: ion-earth
     name: Empowerment of Unemployed Youths
     count: "500"
-  - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
-    count: "75"
-  - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
   description: 'Converting textile and plastic wastes into eco-friendly products '
 features:
   enable: true
