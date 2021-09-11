@@ -48,10 +48,10 @@ features:
     name: Empowerment Initiative
     content: We empower women and youth in rural communities by training them on sustainable
       waste collecting and recycling.
-  - icon: ion-ios-mic-outline
-    name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-planet
+    name: Recycling Hubs
+    content: We have a plan to set up recycling hubs in various locations to achieve
+      higher production efficiency.
   - icon: ion-ios-lightbulb-outline
     name: UI/UX Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
