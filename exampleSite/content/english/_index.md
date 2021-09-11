@@ -90,7 +90,9 @@ funfacts:
   - name: Adejoke Lasisi
     image: images/img-20180814-wa0002.jpg
     designation: CEO-Planet3R
-    content: ''
+    content: 'Our Planet 3R initiative focuses on the empowerment of unemployed youths
+      by training them on effective ways to earn income from recycling plastic and
+      textile waste.  '
   - name: Adejoke Lasisi
     image: images/img-20180814-wa0002.jpg
     designation: CEO-Planet3R
