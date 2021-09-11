@@ -40,10 +40,10 @@ features:
     name: Affordability
     content: Our weaving equipments are locally made in Nigeria which makes our products
       affordable.
-  - icon: ion-ios-unlocked-outline
-    name: App Secutity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-ios-gear-outline
+    name: Access to Raw Materials
+    content: We easily source for Disposed plastics, nylons and textile wastes which
+      are our major inputs in production
   - icon: ion-ios-game-controller-b-outline
     name: Games Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
