@@ -6,7 +6,7 @@ paginate = "15"
 summaryLength = "100"
 theme = "airspace-hugo"
 timeZone = "UTC"
-title = " | Planet3R"
+title = " Planet3R"
 [languages.de]
 contentDir = "content/german"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Alle Rechte vorbehalten."
@@ -67,7 +67,7 @@ logo_width = "120px"
 [params.contact]
 address_descriptors = true
 email = ""
-location = "**Themefisher**  North Main Street  Brooklyn, New South Wales  Australia"
+location = "2, Olode Street Off Obat filling Station Adegbayi, New-Ife Road Ibadan, Oyo State. Nigeria"
 phone = "+2348050700525"
 [params.contact.form]
 action = "#"
@@ -81,7 +81,7 @@ expire_days = 2
 enable = true
 username = ""
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -117,7 +117,7 @@ link = "plugins/shuffle/shuffle.min.js"
 attributes = "defer"
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
