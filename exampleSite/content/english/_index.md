@@ -74,7 +74,7 @@ funfacts:
     name: 'Eco-friendly Products '
     count: "30"
   - icon: ion-arrow-expand
-    name: Recycled clothes and nylons
+    name: Recycled Clothes and Nylons
     count: "10000"
   - icon: ion-bonfire
     name: Creative Awareness Programs
