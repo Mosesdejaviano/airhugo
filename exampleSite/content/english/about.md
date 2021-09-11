@@ -5,7 +5,7 @@ bg_image: images/feature-bg.jpg
 layout: about
 about:
   enable: true
-  image: images/company/about.jpg
+  image: images/img_20210430_230815_524_11zon_11zon_11zon.jpg
   title: ''
   content: |
     We creatively shred old clothes and used nylons (especially pure water sachets) then weave them by converting them into finished products. These finished products are fashion wear, home decors, bags, accessories, etc.
