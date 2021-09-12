@@ -55,14 +55,14 @@ ordered = false
 startLevel = 2
 [module.hugoVersion]
 extended = true
-min = "0.87.0"
+min = "0.90.0"
 [outputs]
 home = ["HTML"]
 [params]
 author = ""
 description = ""
 image = "/images/logo-2_11zon.jpg"
-logo = "/images/logo-2_11zon.jpg"
+logo = "images/logo-2_11zon.jpg"
 logo_width = "120px"
 [params.contact]
 address_descriptors = true
