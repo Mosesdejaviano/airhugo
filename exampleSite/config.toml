@@ -55,7 +55,7 @@ ordered = false
 startLevel = 2
 [module.hugoVersion]
 extended = true
-min = "0.90.0"
+min = "0.88.1"
 [outputs]
 home = ["HTML"]
 [params]
